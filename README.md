@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choijin9561@gmail.com)](mailto:choijin9561@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jin-choi-3974a8166/)](https://www.linkedin.com/in/jin-choi-3974a8166/) [![Blogger Badge](http://img.shields.io/badge/-Blogger-orange?style=flat-square&logo=Blogger&logoColor=white&link=https://data-magic-genie.blogspot.com/)](https://data-magic-genie.blogspot.com/)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choijin9561@gmail.com)](mailto:choijin9561@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jin-choi-3974a8166/)](https://www.linkedin.com/in/jin-choi-3974a8166/) [![Blogger Badge](http://img.shields.io/badge/-Blogger-orange?style=flat-square&logo=Blogger&logoColor=white&link=https://data-genie.blogspot.com/)](https://data-genie.blogspot.com/)
 
 - *Major in Korean Studies & International Finance at Hankuk University of Foreign Studies* 🇰🇷📈
 - *Worked as intern in the marketing Dept. / assistant director at the Broadcasting Center (Local & Global Press Dept.)* 📺
