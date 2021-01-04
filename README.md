@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choijin9561@gmail.com)](mailto:choijin9561@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jin-choi-3974a8166/)](https://www.linkedin.com/in/jin-choi-3974a8166/)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choijin9561@gmail.com)](mailto:choijin9561@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jin-choi-3974a8166/)](https://www.linkedin.com/in/jin-choi-3974a8166/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCpMsx_Ac9qVr9bFrBSOI-WQ/featured)](https://www.youtube.com/channel/UCpMsx_Ac9qVr9bFrBSOI-WQ/featured)
+
 
 - *Major in Korean Studies & International Finance at Hankuk University of Foreign Studies* 🇰🇷📈
 - *Worked as intern in the marketing Dept. / assistant director at the Broadcasting Center (Local & Global Press Dept.)* 📺
