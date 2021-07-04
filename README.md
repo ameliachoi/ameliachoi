@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 - *Major in Korean Studies & International Finance at Hankuk University of Foreign Studies* 🇰🇷📈
-- *Worked as intern in the marketing Dept. / assistant director at the Broadcasting Center (Local & Global Press Dept.)* 📺
+- *Working for B2B Marketer (Mobile App Attribution & Analytics platform)
 - *Currently learning and using R, Python, Tableau, SQL(Oracle) and ElasticSearch* 🌱
 - *Data Analysis and Visualization*
 - 2n년 진성 문과생의 코딩 노트 😎
