@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - *Major in Korean Studies & International Finance at Hankuk University of Foreign Studies* 🇰🇷📈
 - *Working for B2B Marketer (Mobile App Attribution & Analytics platform)*
 - *Currently learning and using R, Python, Tableau, SQL(Oracle), ElasticSearch* 🌱
-- *앱 만들기 도전! (Flutter)*
 - *Data Analysis and Visualization*
 - 2n년 진성 문과생의 코딩 노트 😎
 
